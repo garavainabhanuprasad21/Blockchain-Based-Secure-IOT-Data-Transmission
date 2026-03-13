@@ -23,12 +23,6 @@ This project demonstrates how blockchain can enhance IoT security by storing sen
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
 
-![Ethereum](https://img.shields.io/badge/ethereum-%233C3C3D.svg?style=for-the-badge\&logo=ethereum\&logoColor=white)
-
-![Solidity](https://img.shields.io/badge/solidity-%23363636.svg?style=for-the-badge\&logo=solidity\&logoColor=white)
-
-![Hardhat](https://img.shields.io/badge/hardhat-%23F7DF1E.svg?style=for-the-badge\&logo=ethereum\&logoColor=black)
-
 ---
 
 ## 📂 Project Structure
