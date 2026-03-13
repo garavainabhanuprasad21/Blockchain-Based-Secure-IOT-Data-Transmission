@@ -110,7 +110,9 @@ Feel free to fork the repository and submit a pull request.
 Created by **G Bhanu Prasad** – feel free to connect!
 
 Email: [garavainabhanuprasad21@gmail.com](mailto:garavainabhanuprasad21@gmail.com)
+
 LinkedIn: https://linkedin.com/in/garavainabhanuprasad
+
 GitHub: https://github.com/garavainabhanuprasad21
 
 ---
