@@ -1,73 +1,126 @@
-# Welcome to your Lovable project
+# 🔐 Blockchain-Based Secure IoT Data Transmission
 
-## Project info
+📡 A secure IoT data transmission system that integrates **Blockchain Technology** to ensure **data integrity, transparency, and tamper-proof communication between IoT devices**.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+This project demonstrates how blockchain can enhance IoT security by storing sensor data on a **decentralized and immutable ledger**.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🚀 Features
 
-**Use Lovable**
+* Secure IoT data transmission using blockchain
+* Tamper-proof storage of device data
+* Smart contract based validation
+* Decentralized and transparent architecture
+* Real-time monitoring of IoT data
+* Improved security compared to traditional centralized IoT systems
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🛠️ Tech Stack
 
-**Use your preferred IDE**
+![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge\&logo=node.js\&logoColor=white)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+![Ethereum](https://img.shields.io/badge/ethereum-%233C3C3D.svg?style=for-the-badge\&logo=ethereum\&logoColor=white)
 
-Follow these steps:
+![Solidity](https://img.shields.io/badge/solidity-%23363636.svg?style=for-the-badge\&logo=solidity\&logoColor=white)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+![Hardhat](https://img.shields.io/badge/hardhat-%23F7DF1E.svg?style=for-the-badge\&logo=ethereum\&logoColor=black)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 📂 Project Structure
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+```
+Blockchain-Based-Secure-IOT-Data-Transmission
+│
+├── public/             # Frontend files
+├── src/                # Source code
+├── package.json        # Node dependencies
+├── README.md           # Project documentation
+└── LICENSE             # Project license
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 💻 How to Run Locally
 
-**Use GitHub Codespaces**
+```bash
+git clone https://github.com/garavainabhanuprasad21/Blockchain-Based-Secure-IOT-Data-Transmission.git
+cd Blockchain-Based-Secure-IOT-Data-Transmission
+```
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+### Install dependencies
 
-## What technologies are used for this project?
+```
+npm install
+```
 
-This project is built with:
+### Start local blockchain
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+```
+First Install the Ganache from https://archive.trufflesuite.com/ganache/ 
+and then open the App and leave it as running in background.
 
-## How can I deploy this project?
+```
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+### Run the application
 
-## Can I connect a custom domain to my Lovable project?
+```
+Open the Project in VS Code & Go to Integrated Terminal of the Backend File & type this command - python app.py
+Next, Again open the new Terminal and type this command - npm run dev
+That's it, Now the Project is successfully Running.
+```
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+## 🔧 Usage
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+1. Connect IoT device or simulated sensor data
+2. Data gets encrypted and sent to blockchain
+3. Smart contract verifies and stores the transaction
+4. Users can securely view the stored IoT data
+
+---
+
+## 🎯 Project Goal
+
+The goal of this project is to solve **security vulnerabilities in IoT networks** by integrating **blockchain technology**, ensuring:
+
+* Secure data storage
+* Transparency
+* Protection from data tampering
+
+---
+
+## 🧠 Future Improvements
+
+* Integration with real IoT sensors
+* Cloud-based data analytics
+* AI-based anomaly detection for IoT devices
+* Scalability improvements for large IoT networks
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork the repository and submit a pull request.
+
+---
+
+## 📞 Contact
+
+Created by **G Bhanu Prasad** – feel free to connect!
+
+Email: [garavainabhanuprasad21@gmail.com](mailto:garavainabhanuprasad21@gmail.com)
+LinkedIn: https://linkedin.com/in/garavainabhanuprasad
+GitHub: https://github.com/garavainabhanuprasad21
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
